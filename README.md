@@ -1,3 +1,4 @@
 # avi
-this is my first git repository
-i am commiting some change 
+this is my first git repository.
+<br>
+i am commiting some change  
